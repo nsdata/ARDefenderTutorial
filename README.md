@@ -1,3 +1,5 @@
+总共两层: 下面层放相机 View  上面层放 SceneKit view, 设置SceneView的background为透明
+
 # ARDefenderTutorial
 
 ### Sample code related to my iOS/Swift Tutorial:
